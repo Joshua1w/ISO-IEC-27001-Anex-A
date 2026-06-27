@@ -15,6 +15,4 @@ People's controls address human-related risks through screening, training, defin
 Physical controls protect facilities, equipment, and physical environments from unauthorized access, damage, or disruption. 
 Technological controls provide technical safeguards for systems, networks, applications, and data, including access control, monitoring, secure development, and data protection. 
 Together, these control groups ensure information security is managed holistically using a risk-based and auditable approach aligned with business objectives 
-Find below a spreadsheet listing all controls and how it can be implemented at Addosser: 
-ISO 27001 CONTROL LIST 
  
