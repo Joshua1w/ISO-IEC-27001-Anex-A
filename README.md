@@ -14,5 +14,5 @@ Organizational controls focus on governance, policies, risk ownership, supplier 
 People's controls address human-related risks through screening, training, defined responsibilities, and secure onboarding and offboarding. 
 Physical controls protect facilities, equipment, and physical environments from unauthorized access, damage, or disruption. 
 Technological controls provide technical safeguards for systems, networks, applications, and data, including access control, monitoring, secure development, and data protection. 
-Together, these control groups ensure information security is managed holistically using a risk-based and auditable approach aligned with business objectives 
+Together, these control groups ensure information security is managed holistically using a risk-based and auditable approach aligned with business objectives.
  
